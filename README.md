@@ -1,4 +1,7 @@
-# BASIC REACT COUNTER USING CLASS-RELATED APPROACH
+#REACT COUNTER
+
+This project presents basic react counter build using class-oriented approach.
+
 
 
 # Getting Started with Create React App
