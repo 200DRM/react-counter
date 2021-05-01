@@ -1,6 +1,6 @@
 # REACT COUNTER
 
-This project presents basic react counter build using class-oriented approach.
+This project presents basic react counter built using class-oriented approach.
 
 
 
